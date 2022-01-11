@@ -1,0 +1,8 @@
+com\gartner\tn\uh\commons\logger\context\CommonContextSelector.class
+com\gartner\tn\uh\commons\logger\ILogger.class
+com\gartner\tn\uh\commons\logger\factory\CommonLogEventFactory.class
+com\gartner\tn\uh\commons\logger\CommonLogger.class
+com\gartner\tn\uh\commons\logger\CommonLoggerLogEvent.class
+com\gartner\tn\uh\commons\logger\context\CommonLoggerContext.class
+com\gartner\tn\uh\commons\logger\CommonLogManager.class
+com\gartner\tn\uh\commons\logger\factory\CommonLogContextFactory.class
